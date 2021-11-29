@@ -28,7 +28,7 @@ width: 200px; height: 40px; line-height: 40px; margin-top: 30px; }
 .contents{ width: 1366px; height: 1200px;   ;
     margin: 0 auto;}
 
-.imgslide{width: 1366px; height: 900px; overflow: hidden;}
+.imgslide{width: 1366px; height: 600px; overflow: hidden;}
 .imgslide img{ width: 150%;}
 
 .infos{ width: 1366px; height: 300px;}
